@@ -2,19 +2,10 @@
 
 Codex Agent Runner — AI code generation pipeline with distributed Ollama inference across 4 Pi nodes (BlackRoad integration)
 
-## Organization
+**BlackRoad-OS-Inc** — Corporate root — all IP and governance
 
-**BlackRoad-OS-Inc** — Corporate root — all IP, strategy, and governance
+Road Fleet fork maintained by BlackRoad OS.
 
-## BlackRoad OS
+[blackroad.io](https://blackroad.io) · [docs](https://docs.blackroad.io) · [GitHub](https://github.com/BlackRoad-OS-Inc)
 
-BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
-
-- [blackroad.io](https://blackroad.io) — Main platform
-- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
-- [GitHub](https://github.com/BlackRoad-OS-Inc) — This organization
-
-
-**Fork:** This is a Road Fleet fork maintained by BlackRoad OS.
-
-*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
+*© 2024-2026 BlackRoad OS, Inc.*
